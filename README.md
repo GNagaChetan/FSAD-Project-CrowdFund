@@ -57,7 +57,7 @@ We built this for the **dreamers, fighters, and caregivers**—people who are co
    npm run dev
    
 
-4. Make sure to configure your **Supabase keys** and **reCAPTCHA site key** in a `.env` file.
+5. Make sure to configure your **Supabase keys** and **reCAPTCHA site key** in a `.env` file.
 
 ## ❤️ Contributing
 
