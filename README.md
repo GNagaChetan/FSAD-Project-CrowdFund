@@ -11,7 +11,7 @@ FSAD-Project-CrowdFund is a full-stack web application designed with simplicity 
 - ✍️ Create and manage fundraising campaigns  
 - 🤝 Support others by contributing to their causes  
 - 📖 Share and read **Success Stories** from real beneficiaries 
-- 🔐 Register securely with reCAPTCHA-enabled sign-up  
+- 🔐 Register securely with reCAPTCHA-enabled sign-up
 - 🔄 Seamlessly navigate through pages like Home, About, Campaigns, and Blog
 
 We believe that even small contributions can create big change. This platform aims to give hope and help to those who are often overlooked – especially **middle-class and underprivileged individuals** who need a boost to chase their goals.
