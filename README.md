@@ -19,7 +19,7 @@ We believe that even small contributions can create big change. This platform ai
 ## 🛠️ Tech Stack
 
 ### Frontend
-- ⚛️ **ReactJS** – Component-based UI  
+- ⚛️ **ReactJS** – Component-based UI
 - 🧠 **TypeScript** – Safer, smarter JavaScript  
 - 🎨 **Tailwind CSS** – Fast and modern styling  
 - 🖼️ **Lucide React** – Crisp, consistent icons  
