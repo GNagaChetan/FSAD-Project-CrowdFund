@@ -1,4 +1,4 @@
-# 🌟 FSAD-Project-CrowdFund
+# 🌟 FSAD Project-CrowdFund
 
 > *"Helping people fund their dreams, one campaign at a time."*
 
